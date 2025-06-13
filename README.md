@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel Ajibewa</h1>
-<h3 align="left">I am a backend developer with Python, Django, and PostgreSQL expertise. I specialize in building robust and scalable APIs, solving complex problems, and creating efficient solutions for web applications. With a strong passion for continuous learning, I am dedicated to delivering high-quality and reliable systems.</h3>
+<h3 align="left">I am a backend developer with Java, Rust, Typscript, Node.js, Python, Django, and PostgreSQL expertise. I specialize in building robust and scalable APIs, solving complex problems, and creating efficient solutions for web applications. With a strong passion for continuous learning, I am dedicated to delivering high-quality and reliable systems.</h3>
 
-- 🔭 I’m currently working on **Mindspark**
+- 🔭 I’m currently working on **HomeFinder**
 
 - 🌱 I’m currently learning **Java and Spring a Java web Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stateman24](https://github.com/stateman24)
 
-- 💬 Ask me about **Django, pygame**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **danielajibewa@gmail.com**
 
